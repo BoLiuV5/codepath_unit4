@@ -3,8 +3,7 @@
 
 Submitted by: **Bo Liu**
 
-**Name of your app** is an app that ... [TODO] 
-
+**Trivia** is an app that displays a question and four choices. It allows users to select an answer and test their knowledge in a fun and engaging way.
 Time spent: **X** hours spent in total
 
 ## Required Features
